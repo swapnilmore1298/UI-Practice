@@ -1,5 +1,26 @@
 # UI Practice notes
 
+## Introduction
+
+Here Practice for following :
+
+CSS ->  Responsive / commonly used designs
+
+JS -> 
+Namaste Javascript concepts
+You don't know JS
+Eloquent JS
+Build Netflix landing page with HTML, CSS and JS
+
+Angular ->
+basic concepts
+advanced concepts
+ngx, ngrx, observables,
+pipes
+testing
+
+
+
 ## Responsive website development
 
 _15th Jan_
