@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+:root {
+  font-size: 16px; /* Change this value to set your desired base font size */
+}
+
+html {
+  font-size: 16px; /* Change this value to set your desired base font size */
+}
+
+/* Applying styles using rem units */
+body {
+  font-size: 1em; /* 1rem is equal to the base font size */
+}
+
+h1 {
+  font-size: 2rem; /* 2rem is equal to twice the base font size */
+}
+
+body {
+  width: 100%;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+.small{
+    font-size: 0.7em;
+}

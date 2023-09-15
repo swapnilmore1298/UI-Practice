@@ -1,0 +1,88 @@
+.container-flex{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background{
+    background-color: #f7f7f7;
+}
+
+.loginCard{
+    display: flex;
+    width: 40em;
+    height: 24em;
+    background-color: white;
+    justify-content:space-between ;
+}
+
+.loginItem{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
+
+.panelImg{
+    background-size: cover; /* This will make the image cover the entire card */
+    background-position: center;
+    background-image : url('https://www2.shutterstock.com/blog/wp-content/uploads/sites/5/2015/06/shutterstock_219620731.jpg');
+}
+
+.loginForm{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.formItem{
+    display: flex;
+    justify-content: center;
+}
+
+.cardhead{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.headline{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #5b5b5b;
+}
+
+.subHeadline{
+    font-size: 0.8em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: #8e8e8e;
+}
+
+.formInputContainer{
+    display: flex;
+    height: 7em;
+    flex-flow: column;
+    justify-content: space-evenly;
+}
+
+.submitRowItem{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+.linksRow{
+    flex-flow: row nowrap;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+small{
+    font-size: 0.7em;
+}
